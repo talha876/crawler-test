@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  avg_rating: 9.99
+  ratings_count: 1
+  esbr_rating: MyString
+  release_date: MyString
+  manufacturer: MyString
+  url: MyString
+  price: MyString
+
+two:
+  name: MyString
+  avg_rating: 9.99
+  ratings_count: 1
+  esbr_rating: MyString
+  release_date: MyString
+  manufacturer: MyString
+  url: MyString
+  price: MyString
